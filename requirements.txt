@@ -3,7 +3,7 @@ Flask==2.1.2
 Flask-Cors==3.0.9
 tldextract==3.3.0
 Flask-RESTful==0.3.9
-pandas==1.5.2
+pandas==2.0.0
 regex==2023.08.04
 python_whois==0.8.5
 numpy==1.23.3
